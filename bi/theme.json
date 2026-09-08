@@ -1,0 +1,7 @@
+{
+  "name": "CFPB Operational Review",
+  "dataColors": ["#155E75", "#0F766E", "#D97706", "#DC2626", "#475569"],
+  "background": "#F7FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#155E75"
+}

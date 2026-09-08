@@ -1,0 +1,14 @@
+﻿term,document_frequency,tfidf_score
+delayed,145,145.0
+concern,121,124.104265
+customer,121,124.104265
+customer concern,121,124.104265
+delayed customer,121,124.104265
+payment,121,124.104265
+payment delayed,121,124.104265
+delayed refund,24,30.050506
+dispute,24,30.050506
+dispute delayed,24,30.050506
+merchant,24,30.050506
+merchant dispute,24,30.050506
+refund,24,30.050506

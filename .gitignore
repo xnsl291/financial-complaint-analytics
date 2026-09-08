@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/raw/*
+!data/raw/.gitkeep
+data/staging/*
+!data/staging/.gitkeep
+data/mart/*
+!data/mart/.gitkeep

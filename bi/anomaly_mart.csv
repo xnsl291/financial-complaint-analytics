@@ -1,0 +1,3 @@
+﻿month,product,issue,complaints,baseline_complaints,robust_z,anomaly_label
+2025-03,Crypto asset,Fraud,38,15.5,10.117,spike
+2024-03,Mortgage,Payment trouble,31,10.5,20.5,spike

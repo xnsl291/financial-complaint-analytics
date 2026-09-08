@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "financial-complaint-analytics"
+version = "0.1.0"
+description = "CFPB Consumer Complaint Database analytics portfolio project"
+requires-python = ">=3.12"
+dependencies = ["duckdb>=1.5,<2", "matplotlib>=3.11,<4"]
+
+[tool.setuptools]
+packages = ["src"]

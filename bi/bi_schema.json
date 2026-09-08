@@ -1,0 +1,16 @@
+{
+  "exports": [
+    "fact_complaints.csv",
+    "dim_date.csv",
+    "dim_product.csv",
+    "dim_company.csv",
+    "monthly_trend.csv",
+    "response_mart.csv",
+    "anomaly_mart.csv",
+    "keyword_mart.csv",
+    "channel_state_mart.csv",
+    "kpi_table.csv",
+    "quality_table.csv"
+  ],
+  "grain": "one complaint in fact_complaints; no company quality ranking"
+}

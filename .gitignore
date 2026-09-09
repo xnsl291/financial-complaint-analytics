@@ -7,3 +7,6 @@ data/staging/*
 !data/staging/.gitkeep
 data/mart/*
 !data/mart/.gitkeep
+bi/real_company_response.csv
+bi/real_channel_state.csv
+bi/real_monthly_product_issue.csv

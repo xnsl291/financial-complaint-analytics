@@ -208,6 +208,17 @@ def build_real_aggregates(
         company_response = connection.execute(
             "SELECT * FROM real_company_response ORDER BY month, company, product"
         ).df()
+        response_summary = (
+            company_response.groupby(
+                ["product", "company_response_to_consumer"], as_index=False
+            )["complaints"]
+            .sum()
+            .sort_values(
+                ["complaints", "product", "company_response_to_consumer"],
+                ascending=[False, True, True],
+            )
+            .reset_index(drop=True)
+        )
 
         anomaly_input = monthly.copy()
         anomaly_input["month"] = pd.to_datetime(anomaly_input["month"]).dt.strftime("%Y-%m")
@@ -255,12 +266,18 @@ def build_real_aggregates(
 
         connection.register("_real_anomalies", anomalies)
         connection.register("_real_kpi", kpi)
+        connection.register("_real_response_summary", response_summary)
         connection.execute("CREATE OR REPLACE TABLE real_anomaly_mart AS SELECT * FROM _real_anomalies")
         connection.execute("CREATE OR REPLACE TABLE real_kpi AS SELECT * FROM _real_kpi")
+        connection.execute(
+            "CREATE OR REPLACE TABLE real_response_summary AS "
+            "SELECT * FROM _real_response_summary"
+        )
 
     monthly.to_csv(bi / "real_monthly_product_issue.csv", index=False)
     channel_state.to_csv(bi / "real_channel_state.csv", index=False)
     company_response.to_csv(bi / "real_company_response.csv", index=False)
+    response_summary.to_csv(bi / "real_response_summary.csv", index=False)
     anomalies.to_csv(bi / "real_anomaly_mart.csv", index=False)
     kpi.to_csv(bi / "real_kpi.csv", index=False)
     _write_real_preview(root, monthly, anomalies, kpi)

@@ -98,10 +98,19 @@ def test_real_aggregate_persists_small_duckdb_marts_and_bi_exports(tmp_path: Pat
         "real_monthly_product_issue",
         "real_channel_state",
         "real_company_response",
+        "real_response_summary",
         "real_anomaly_mart",
         "real_kpi",
     }.issubset(tables)
     assert (root / "bi" / "real_monthly_product_issue.csv").exists()
+    response_summary = pd.read_csv(root / "bi" / "real_response_summary.csv")
+    assert response_summary.to_dict("records") == [
+        {
+            "product": "Card",
+            "company_response_to_consumer": "Closed with explanation",
+            "complaints": 1,
+        }
+    ]
     assert (root / "bi" / "real_anomaly_mart.csv").exists()
     assert len(list((root / "reports").glob("real_power_bi_preview_page_*.png"))) == 4
     assert (root / "reports" / "real_power_bi_preview.pdf").exists()

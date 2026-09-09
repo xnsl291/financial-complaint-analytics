@@ -1,0 +1,2 @@
+complaints,complete_months,first_month,last_month,timely_count,timely_response_denominator,timely_response_rate_pct,monetary_relief_count,non_monetary_relief_count,narrative_count,narrative_availability_pct,top_product_issue_concentration_pct,top_channel_share_pct,anomaly_count,analysis_start,analysis_end,source_type
+12344954,34,2023-09-01 00:00:00,2026-06-01 00:00:00,12294835,12344954,99.594,71802,4635652,2287266,18.5279,49.8254,99.1387,592,2023-09-01,2026-06-30,pinned third-party Parquet mirror of CFPB public bulk export

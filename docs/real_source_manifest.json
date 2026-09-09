@@ -1,0 +1,10 @@
+{
+  "source": "CFPB Consumer Complaint Database",
+  "mirror_repository": "Mouwiya/cfpb-consumer-complaints",
+  "mirror_revision": "038f8f8b18879c9384abfee5d0b685b00c03b3cf",
+  "file_pattern": "data/complaints-00000.parquet through complaints-00066.parquet",
+  "analysis_start": "2023-09-01",
+  "analysis_end": "2026-06-30",
+  "raw_narratives_stored": false,
+  "caveat": "The official CFPB endpoint returned HTTP 403 in this environment; aggregate results use a pinned third-party conversion and should be refreshed from the official source when access is restored."
+}

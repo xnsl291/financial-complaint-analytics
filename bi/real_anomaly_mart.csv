@@ -1,0 +1,593 @@
+month,product,issue,complaints,timely_count,untimely_count,monetary_relief_count,non_monetary_relief_count,narrative_count,baseline_complaints,robust_z,anomaly_label
+2024-03,Checking or savings account,Closing an account,602,596,6,80,41,369,572.0,4.047,spike
+2025-01,Checking or savings account,Closing an account,912,906,6,81,65,567,662.0,84.311,spike
+2025-02,Checking or savings account,Closing an account,722,716,6,82,56,465,664.0,19.56,spike
+2025-06,Checking or savings account,Closing an account,862,837,25,124,71,573,757.0,6.438,spike
+2025-08,Checking or savings account,Closing an account,906,901,5,92,78,555,862.0,14.839,spike
+2025-09,Checking or savings account,Closing an account,891,887,4,97,61,530,864.0,9.106,spike
+2026-06,Checking or savings account,Closing an account,1111,1105,6,42,45,61,943.0,8.094,spike
+2025-12,Checking or savings account,Incorrect information on your report,31,30,1,2,6,3,20.0,11.0,spike
+2026-01,Checking or savings account,Incorrect information on your report,27,27,0,0,6,9,20.0,4.721,spike
+2024-01,Checking or savings account,Managing an account,2308,2303,5,364,172,1204,2114.0,13.085,spike
+2024-02,Checking or savings account,Managing an account,2211,2194,17,330,210,1139,2114.0,6.543,spike
+2024-08,Checking or savings account,Managing an account,2704,2678,26,396,186,1467,2562.0,10.642,spike
+2025-01,Checking or savings account,Managing an account,8232,8210,22,493,206,5791,2689.0,55.802,spike
+2025-07,Checking or savings account,Managing an account,3577,3530,47,476,227,2191,3032.0,5.487,spike
+2025-08,Checking or savings account,Managing an account,3613,3578,35,424,211,2233,3099.0,5.174,spike
+2025-12,Checking or savings account,Managing an account,4441,4406,35,542,241,1855,3421.0,137.596,spike
+2026-06,Checking or savings account,Managing an account,4971,4954,17,177,113,190,4491.0,3.997,spike
+2024-04,Checking or savings account,Opening an account,367,366,1,40,40,193,356.0,7.419,spike
+2024-05,Checking or savings account,Opening an account,405,405,0,50,47,226,356.0,33.05,spike
+2024-08,Checking or savings account,Opening an account,438,436,2,55,35,217,400.0,5.126,spike
+2024-10,Checking or savings account,Opening an account,500,497,3,29,53,224,437.0,42.493,spike
+2024-12,Checking or savings account,Opening an account,460,458,2,30,46,223,437.0,5.171,spike
+2025-01,Checking or savings account,Opening an account,655,651,4,53,38,336,460.0,5.059,spike
+2025-07,Checking or savings account,Opening an account,718,711,7,36,52,394,540.0,13.34,spike
+2025-12,Checking or savings account,Opening an account,635,627,8,46,45,238,537.0,5.085,spike
+2026-01,Checking or savings account,Opening an account,720,718,2,79,42,294,537.0,9.495,spike
+2023-11,Checking or savings account,Problem caused by your funds being low,248,248,0,80,10,166,233.5,6.52,spike
+2024-05,Checking or savings account,Problem caused by your funds being low,249,247,2,50,9,151,213.0,4.856,spike
+2024-11,Checking or savings account,Problem caused by your funds being low,925,925,0,270,10,507,230.0,24.672,persistent
+2024-12,Checking or savings account,Problem caused by your funds being low,376,376,0,104,3,247,230.0,5.183,persistent
+2025-01,Checking or savings account,Problem caused by your funds being low,7570,7566,4,179,9,6376,376.0,33.235,persistent
+2025-07,Checking or savings account,Problem caused by your funds being low,383,382,1,80,6,275,316.0,6.456,spike
+2025-08,Checking or savings account,Problem caused by your funds being low,374,373,1,88,11,259,323.0,4.914,spike
+2025-12,Checking or savings account,Problem caused by your funds being low,456,451,5,94,13,209,345.0,18.717,spike
+2025-01,Checking or savings account,Problem with a company's investigation into an existing problem,21,21,0,3,0,12,9.0,4.047,spike
+2026-03,Checking or savings account,Problem with a company's investigation into an existing problem,26,26,0,2,2,10,19.0,7.0,spike
+2023-12,Checking or savings account,Problem with a lender or other company charging your account,495,493,2,90,20,300,487.0,5.396,spike
+2024-01,Checking or savings account,Problem with a lender or other company charging your account,536,534,2,101,13,317,488.0,32.376,spike
+2024-08,Checking or savings account,Problem with a lender or other company charging your account,595,588,7,96,21,336,555.0,4.497,spike
+2025-01,Checking or savings account,Problem with a lender or other company charging your account,959,957,2,118,15,605,552.0,11.438,spike
+2025-07,Checking or savings account,Problem with a lender or other company charging your account,808,794,14,136,27,541,704.0,4.126,spike
+2025-11,Checking or savings account,Problem with a lender or other company charging your account,917,905,12,128,27,622,829.0,7.419,spike
+2025-12,Checking or savings account,Problem with a lender or other company charging your account,1098,1090,8,158,28,473,837.0,9.265,spike
+2024-03,Credit card,"Advertising and marketing, including promotional offers",242,241,1,26,47,181,180.0,20.909,persistent
+2024-04,Credit card,"Advertising and marketing, including promotional offers",492,491,1,44,220,289,197.0,11.704,spike
+2025-01,Credit card,"Advertising and marketing, including promotional offers",302,301,1,51,35,200,209.0,15.682,spike
+2024-02,Credit card,Closing your account,352,351,1,29,55,212,303.0,8.263,spike
+2024-03,Credit card,Closing your account,328,327,1,29,50,181,307.0,3.541,spike
+2024-10,Credit card,Closing your account,382,382,0,34,47,212,353.0,29.0,spike
+2024-11,Credit card,Closing your account,363,363,0,24,53,218,353.0,10.0,persistent
+2024-12,Credit card,Closing your account,422,422,0,25,51,238,363.0,3.979,spike
+2025-01,Credit card,Closing your account,542,541,1,33,78,330,382.0,5.68,spike
+2025-04,Credit card,Closing your account,490,490,0,28,55,291,424.0,11.129,spike
+2025-05,Credit card,Closing your account,542,542,0,28,75,322,424.0,19.897,spike
+2025-07,Credit card,Closing your account,567,563,4,38,73,332,542.0,16.862,spike
+2026-05,Credit card,Closing your account,555,551,4,39,38,93,502.0,3.972,spike
+2026-06,Credit card,Closing your account,588,585,3,18,29,28,502.0,6.445,spike
+2024-04,Credit card,Credit monitoring or identity theft protection services,23,23,0,0,7,15,18.0,5.0,spike
+2025-01,Credit card,Credit monitoring or identity theft protection services,28,28,0,0,2,19,15.0,8.768,spike
+2025-09,Credit card,Credit monitoring or identity theft protection services,21,21,0,2,2,15,14.0,4.721,spike
+2026-01,Credit card,Credit monitoring or identity theft protection services,26,26,0,0,7,9,17.0,6.07,persistent
+2024-01,Credit card,Fees or interest,454,454,0,177,16,260,375.0,5.921,spike
+2024-02,Credit card,Fees or interest,445,445,0,160,21,281,375.0,5.246,spike
+2024-03,Credit card,Fees or interest,495,494,1,187,15,299,445.0,3.747,spike
+2024-04,Credit card,Fees or interest,540,540,0,185,52,305,454.0,6.445,spike
+2024-08,Credit card,Fees or interest,624,623,1,230,36,366,529.0,7.12,spike
+2024-10,Credit card,Fees or interest,573,572,1,207,25,337,538.0,7.869,spike
+2025-01,Credit card,Fees or interest,926,924,2,256,40,573,569.0,60.198,spike
+2025-07,Credit card,Fees or interest,664,663,1,222,34,422,629.0,7.869,spike
+2025-12,Credit card,Fees or interest,824,812,12,247,29,388,580.0,3.657,persistent
+2026-03,Credit card,Fees or interest,915,893,22,272,36,433,838.0,3.71,spike
+2024-08,Credit card,Getting a credit card,971,967,4,15,329,406,773.0,26.71,spike
+2024-09,Credit card,Getting a credit card,905,903,2,6,346,439,778.0,17.132,spike
+2025-01,Credit card,Getting a credit card,1061,1056,5,23,352,472,809.0,3.953,spike
+2026-05,Credit card,Getting a credit card,985,979,6,18,200,154,887.0,16.525,spike
+2024-02,Credit card,Improper use of your report,83,83,0,0,25,33,75.0,5.396,spike
+2024-10,Credit card,Improper use of your report,83,83,0,1,30,35,67.0,5.396,spike
+2025-01,Credit card,Improper use of your report,104,104,0,0,17,60,54.0,16.862,spike
+2025-05,Credit card,Improper use of your report,82,81,1,1,13,55,57.0,4.216,spike
+2025-08,Credit card,Improper use of your report,60,60,0,0,15,28,46.0,4.721,persistent
+2025-09,Credit card,Improper use of your report,70,70,0,2,21,29,46.0,8.094,spike
+2026-01,Credit card,Improper use of your report,74,74,0,0,12,27,55.0,12.815,spike
+2023-11,Credit card,Incorrect information on your report,423,423,0,7,168,313,161.5,27.135,persistent
+2023-12,Credit card,Incorrect information on your report,299,298,1,2,113,219,168.0,6.797,persistent
+2024-05,Credit card,Incorrect information on your report,907,906,1,7,462,317,608.0,10.614,persistent
+2024-06,Credit card,Incorrect information on your report,1103,1102,1,3,575,115,627.0,16.898,persistent
+2025-01,Credit card,Incorrect information on your report,1242,1242,0,8,605,120,1049.0,5.424,spike
+2025-05,Credit card,Incorrect information on your report,1382,1381,1,8,635,127,523.0,3.714,persistent
+2025-10,Credit card,Incorrect information on your report,1870,1869,1,6,852,477,1443.0,6.128,spike
+2024-03,Credit card,"Other features, terms, or problems",560,560,0,87,83,331,533.0,3.642,spike
+2024-09,Credit card,"Other features, terms, or problems",583,582,1,84,86,320,517.0,4.452,spike
+2025-01,Credit card,"Other features, terms, or problems",798,795,3,107,124,470,595.0,4.279,spike
+2025-07,Credit card,"Other features, terms, or problems",758,755,3,97,96,467,668.0,60.704,spike
+2025-12,Credit card,"Other features, terms, or problems",816,804,12,115,81,364,705.0,24.956,spike
+2026-01,Credit card,"Other features, terms, or problems",947,928,19,147,108,465,717.0,10.342,spike
+2023-11,Credit card,Problem when making payments,311,311,0,86,22,155,293.0,18.0,spike
+2023-12,Credit card,Problem when making payments,299,299,0,61,36,165,293.0,6.0,spike
+2024-01,Credit card,Problem when making payments,349,348,1,75,31,171,299.0,5.621,spike
+2024-02,Credit card,Problem when making payments,379,379,0,79,34,191,311.0,3.822,spike
+2024-08,Credit card,Problem when making payments,356,355,1,83,36,185,304.0,3.897,spike
+2025-01,Credit card,Problem when making payments,604,599,5,83,77,352,366.0,9.443,spike
+2025-12,Credit card,Problem when making payments,400,398,2,61,33,154,345.0,18.548,spike
+2026-01,Credit card,Problem when making payments,471,468,3,105,34,199,345.0,42.493,spike
+2024-03,Credit card,Problem with a company's investigation into an existing problem,787,787,0,7,436,554,581.0,9.263,persistent
+2024-04,Credit card,Problem with a company's investigation into an existing problem,1430,1430,0,4,811,843,596.0,14.803,persistent
+2024-12,Credit card,Problem with a company's investigation into an existing problem,981,981,0,4,440,112,811.0,14.333,persistent
+2025-01,Credit card,Problem with a company's investigation into an existing problem,1589,1589,0,3,787,251,981.0,34.174,spike
+2025-08,Credit card,Problem with a company's investigation into an existing problem,1092,1091,1,7,329,341,776.0,12.538,persistent
+2025-09,Credit card,Problem with a company's investigation into an existing problem,1419,1419,0,7,556,396,776.0,10.326,spike
+2025-12,Credit card,Problem with a company's investigation into an existing problem,383,381,2,9,133,94,245.0,93.08,persistent
+2026-01,Credit card,Problem with a company's investigation into an existing problem,383,381,2,6,101,87,245.0,93.08,spike
+2026-04,Credit card,Problem with a company's investigation into an existing problem,409,405,4,10,62,90,297.0,8.394,spike
+2026-05,Credit card,Problem with a company's investigation into an existing problem,377,375,2,6,40,30,297.0,5.995,spike
+2025-01,Credit card,Problem with a purchase shown on your statement,1479,1475,4,452,131,903,1294.0,13.865,spike
+2025-03,Credit card,Problem with a purchase shown on your statement,1349,1345,4,401,93,789,1296.0,17.874,spike
+2025-07,Credit card,Problem with a purchase shown on your statement,1802,1793,9,523,131,1077,1545.0,4.228,spike
+2025-12,Credit card,Problem with a purchase shown on your statement,2455,2424,31,590,80,1036,1743.0,8.893,persistent
+2026-01,Credit card,Problem with a purchase shown on your statement,2948,2913,35,719,107,1310,1826.0,5.524,persistent
+2026-03,Credit card,Problem with a purchase shown on your statement,2851,2814,37,744,90,1173,2467.0,21.584,spike
+2024-05,Credit card,Struggling to pay your bill,76,76,0,3,14,29,54.0,14.839,spike
+2024-07,Credit card,Struggling to pay your bill,70,70,0,2,11,41,54.0,10.792,persistent
+2025-01,Credit card,Struggling to pay your bill,102,102,0,5,11,53,85.0,5.733,spike
+2025-02,Credit card,Struggling to pay your bill,99,97,2,3,13,46,87.0,4.047,spike
+2025-11,Credit card,Struggling to pay your bill,128,128,0,6,15,60,118.0,6.745,spike
+2024-03,Credit card,Trouble using your card,229,227,2,9,30,141,185.0,14.839,spike
+2024-07,Credit card,Trouble using your card,186,186,0,14,30,118,171.0,5.059,spike
+2024-08,Credit card,Trouble using your card,219,216,3,18,28,142,173.0,15.513,spike
+2024-12,Credit card,Trouble using your card,209,206,3,9,20,134,200.0,6.07,spike
+2025-01,Credit card,Trouble using your card,282,277,5,11,27,181,201.0,6.829,spike
+2025-04,Credit card,Trouble using your card,221,221,0,8,22,139,179.0,4.721,spike
+2025-05,Credit card,Trouble using your card,251,249,2,14,30,175,179.0,8.094,persistent
+2024-01,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,617,615,2,6,305,289,416.0,15.064,persistent
+2024-02,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,876,874,2,1,544,215,425.0,33.799,persistent
+2024-09,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,1285,1283,2,4,620,413,1073.0,7.944,spike
+2025-01,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,1005,997,8,10,313,558,611.0,10.221,spike
+2025-09,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,816,808,8,4,258,184,655.0,5.43,spike
+2025-12,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,680,673,7,10,209,103,455.0,75.88,spike
+2026-01,Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,638,625,13,10,197,1,455.0,61.716,spike
+2023-12,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,46,44,2,2,8,17,26.0,13.49,spike
+2024-12,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,63,63,0,2,4,42,33.0,4.047,persistent
+2025-06,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,61,58,3,0,7,42,43.0,18.0,spike
+2025-12,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,55,53,2,0,9,10,49.0,4.047,spike
+2026-04,Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,54,53,1,0,5,0,44.0,6.745,persistent
+2023-12,Credit reporting or other personal consumer reports,Improper use of your report,29974,29927,47,9,15630,9283,26455.0,113.025,persistent
+2024-01,Credit reporting or other personal consumer reports,Improper use of your report,35032,34978,54,9,19135,10091,26455.0,275.481,persistent
+2024-07,Credit reporting or other personal consumer reports,Improper use of your report,64111,64064,47,15,33816,16416,57629.0,13.578,spike
+2024-08,Credit reporting or other personal consumer reports,Improper use of your report,72743,72670,73,12,34541,17185,57951.0,30.985,spike
+2025-01,Credit reporting or other personal consumer reports,Improper use of your report,88587,88482,105,17,39973,22688,71839.0,10.946,spike
+2025-03,Credit reporting or other personal consumer reports,Improper use of your report,82329,82092,237,12,39239,19933,72269.0,15.78,spike
+2025-05,Credit reporting or other personal consumer reports,Improper use of your report,92166,92011,155,5,44207,25805,82329.0,10.877,spike
+2025-06,Credit reporting or other personal consumer reports,Improper use of your report,95754,95632,122,4,48706,33836,82939.0,14.17,spike
+2026-02,Credit reporting or other personal consumer reports,Improper use of your report,108825,108726,99,4,33824,181,90540.0,3.859,spike
+2026-03,Credit reporting or other personal consumer reports,Improper use of your report,129994,129888,106,5,37170,232,103996.0,3.631,spike
+2023-12,Credit reporting or other personal consumer reports,Incorrect information on your report,51289,51203,86,30,30136,12249,44955.0,4.116,spike
+2024-01,Credit reporting or other personal consumer reports,Incorrect information on your report,60156,60079,77,28,36781,13144,45993.0,9.203,persistent
+2024-07,Credit reporting or other personal consumer reports,Incorrect information on your report,96266,96211,55,39,54631,28341,80649.0,5.418,spike
+2024-08,Credit reporting or other personal consumer reports,Incorrect information on your report,108263,108205,58,23,58819,28448,82593.0,8.906,persistent
+2025-01,Credit reporting or other personal consumer reports,Incorrect information on your report,194471,194302,169,41,101453,47379,138445.0,9.469,persistent
+2025-07,Credit reporting or other personal consumer reports,Incorrect information on your report,249254,249006,248,36,123051,52696,212769.0,3.794,spike
+2025-08,Credit reporting or other personal consumer reports,Incorrect information on your report,265671,265387,284,58,88798,44143,212769.0,5.501,spike
+2025-10,Credit reporting or other personal consumer reports,Incorrect information on your report,275581,275378,203,30,103992,28788,265671.0,70.36,spike
+2025-11,Credit reporting or other personal consumer reports,Incorrect information on your report,270213,269919,294,40,108440,30748,265766.0,31.573,spike
+2026-03,Credit reporting or other personal consumer reports,Incorrect information on your report,324744,324395,349,43,87692,452,279394.0,4.663,spike
+2026-05,Credit reporting or other personal consumer reports,Incorrect information on your report,358148,357896,252,25,85871,213,324744.0,8.483,spike
+2026-06,Credit reporting or other personal consumer reports,Incorrect information on your report,417406,417264,142,11,21196,22,327400.0,22.857,spike
+2024-01,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,74,73,1,0,10,37,64.0,10.0,spike
+2024-02,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,75,75,0,0,12,38,64.0,11.0,persistent
+2024-04,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,109,107,2,0,41,51,75.0,22.933,spike
+2024-05,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,112,111,1,0,37,51,78.0,7.644,spike
+2024-12,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,112,111,1,2,23,59,100.0,4.047,persistent
+2025-01,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,313,309,4,2,57,163,100.0,71.833,persistent
+2025-06,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,261,254,7,3,57,109,192.0,46.54,spike
+2025-12,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,244,240,4,2,27,52,198.0,15.513,spike
+2026-01,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,251,242,9,0,35,1,204.0,3.963,persistent
+2026-02,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,293,288,5,3,38,0,244.0,4.721,persistent
+2026-03,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,443,439,4,2,90,0,251.0,18.5,persistent
+2026-04,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,595,590,5,2,104,1,293.0,4.85,persistent
+2024-01,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,22744,22732,12,15,13614,6631,19349.0,17.751,persistent
+2024-02,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,25237,25211,26,13,15682,7598,19349.0,30.786,persistent
+2025-01,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,79144,79055,89,27,34171,27959,45872.0,38.101,spike
+2025-02,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,54389,54334,55,17,25821,16411,45872.0,9.753,spike
+2025-05,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,62264,62165,99,17,30676,13650,57581.0,38.52,spike
+2025-06,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,62944,62855,89,19,31700,13747,57663.0,43.439,spike
+2025-07,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,70882,70826,56,26,34706,16513,62264.0,8.548,spike
+2025-08,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,75688,75589,99,21,26475,13804,62944.0,12.641,spike
+2026-03,Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,93097,92991,106,29,24383,121,84759.0,15.037,spike
+2024-02,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,405,404,1,1,155,175,302.0,23.158,persistent
+2024-04,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,528,528,0,0,228,150,405.0,9.218,persistent
+2024-05,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,759,759,0,3,392,178,414.0,25.855,persistent
+2025-09,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,2119,2116,3,2,737,302,1042.0,5.675,persistent
+2025-10,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,1718,1716,2,1,468,335,1042.0,3.562,persistent
+2026-02,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,2333,2308,25,2,484,3,1576.0,3.621,spike
+2026-06,Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,2419,2377,42,0,245,0,1846.0,6.664,spike
+2024-04,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,621,611,10,1,139,238,540.0,4.203,spike
+2024-05,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,801,796,5,1,168,327,540.0,7.654,spike
+2024-10,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,810,809,1,0,155,362,648.0,36.423,spike
+2024-11,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,879,872,7,4,158,292,796.0,3.999,persistent
+2025-01,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1316,1314,2,2,288,554,867.0,25.237,spike
+2025-04,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1047,1046,1,3,189,348,905.0,3.547,spike
+2025-05,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1228,1222,6,0,220,472,905.0,8.069,persistent
+2025-07,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1407,1405,2,2,269,505,1047.0,24.282,persistent
+2025-09,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1595,1593,2,5,300,270,1364.0,3.623,spike
+2026-03,Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,1675,1674,1,4,437,4,1428.0,18.511,spike
+2024-01,Debt collection,Attempts to collect debt not owed,3736,3658,78,15,829,1785,2925.0,9.117,persistent
+2024-02,Debt collection,Attempts to collect debt not owed,4481,4418,63,14,1068,1926,2925.0,4.664,persistent
+2024-08,Debt collection,Attempts to collect debt not owed,6663,6517,146,24,1822,3042,5566.0,3.756,spike
+2025-01,Debt collection,Attempts to collect debt not owed,10406,10128,278,25,2847,4337,6995.0,9.352,spike
+2025-06,Debt collection,Attempts to collect debt not owed,9387,9149,238,12,2812,3834,9197.0,5.126,spike
+2025-07,Debt collection,Attempts to collect debt not owed,10189,10003,186,20,3031,4462,9197.0,7.78,spike
+2026-01,Debt collection,Attempts to collect debt not owed,12407,12103,304,21,2648,3418,9680.0,5.608,persistent
+2026-02,Debt collection,Attempts to collect debt not owed,12565,12285,280,19,2262,2393,10008.0,5.258,persistent
+2026-03,Debt collection,Attempts to collect debt not owed,16308,15965,343,16,3149,4873,12407.0,16.653,spike
+2026-04,Debt collection,Attempts to collect debt not owed,13389,13047,342,18,2797,3230,12565.0,3.518,spike
+2024-03,Debt collection,Communication tactics,487,479,8,3,117,286,412.0,16.862,spike
+2024-04,Debt collection,Communication tactics,536,526,10,1,131,265,415.0,11.659,spike
+2024-08,Debt collection,Communication tactics,674,657,17,2,191,327,480.0,11.896,spike
+2025-01,Debt collection,Communication tactics,1003,975,28,5,263,544,658.0,6.464,spike
+2025-08,Debt collection,Communication tactics,820,784,36,1,252,498,772.0,8.094,spike
+2026-01,Debt collection,Communication tactics,940,906,34,3,238,401,772.0,3.777,spike
+2023-11,Debt collection,Electronic communications,130,128,2,1,19,72,91.5,7.419,spike
+2024-02,Debt collection,Electronic communications,139,138,1,1,17,72,130.0,9.0,spike
+2024-08,Debt collection,Electronic communications,245,243,2,1,43,111,158.0,11.736,spike
+2025-01,Debt collection,Electronic communications,405,390,15,1,87,214,235.0,5.46,spike
+2025-03,Debt collection,Electronic communications,340,335,5,0,66,203,256.0,9.443,spike
+2025-07,Debt collection,Electronic communications,381,374,7,0,89,196,329.0,8.768,spike
+2025-08,Debt collection,Electronic communications,385,375,10,1,90,199,333.0,8.768,spike
+2025-12,Debt collection,Electronic communications,449,436,13,0,97,170,379.0,47.214,spike
+2024-04,Debt collection,False statements or representation,657,640,17,3,91,410,550.0,8.019,spike
+2024-08,Debt collection,False statements or representation,823,802,21,4,115,459,532.0,14.02,persistent
+2024-09,Debt collection,False statements or representation,2034,1991,43,11,425,666,560.0,23.671,persistent
+2024-10,Debt collection,False statements or representation,3336,3279,57,2,777,878,823.0,6.445,persistent
+2025-07,Debt collection,False statements or representation,3748,3670,78,8,829,1408,3148.0,44.966,spike
+2025-08,Debt collection,False statements or representation,3376,3260,116,5,719,1346,3157.0,16.413,spike
+2025-01,Debt collection,Threatened to contact someone or share information improperly,258,246,12,0,72,122,137.0,5.101,spike
+2025-03,Debt collection,Threatened to contact someone or share information improperly,202,194,8,0,31,104,162.0,3.854,persistent
+2025-08,Debt collection,Threatened to contact someone or share information improperly,247,237,10,0,49,131,196.0,8.6,spike
+2026-06,Debt collection,Threatened to contact someone or share information improperly,272,262,10,0,27,4,209.0,14.164,spike
+2024-08,Debt collection,Took or threatened to take negative or legal action,854,823,31,5,119,448,745.0,3.501,persistent
+2024-10,Debt collection,Took or threatened to take negative or legal action,1329,1279,50,1,232,631,852.0,160.866,persistent
+2024-11,Debt collection,Took or threatened to take negative or legal action,1327,1279,48,1,224,493,854.0,159.517,persistent
+2024-12,Debt collection,Took or threatened to take negative or legal action,1540,1509,31,4,276,571,1327.0,71.833,persistent
+2025-01,Debt collection,Took or threatened to take negative or legal action,2411,2323,88,6,451,790,1329.0,364.9,persistent
+2025-07,Debt collection,Took or threatened to take negative or legal action,3648,3480,168,2,618,640,1967.0,7.874,persistent
+2025-08,Debt collection,Took or threatened to take negative or legal action,3671,3476,195,2,682,693,2233.0,3.646,persistent
+2025-09,Debt collection,Took or threatened to take negative or legal action,4650,4464,186,3,768,725,3648.0,29.384,persistent
+2025-10,Debt collection,Took or threatened to take negative or legal action,6384,6067,317,5,938,659,3671.0,79.561,persistent
+2026-06,Debt collection,Took or threatened to take negative or legal action,11146,10699,447,2,916,39,7852.0,9.577,spike
+2023-11,Debt collection,Written notification about debt,1414,1396,18,5,388,982,918.5,15.545,persistent
+2023-12,Debt collection,Written notification about debt,1653,1626,27,4,472,1075,940.0,11.184,persistent
+2024-02,Debt collection,Written notification about debt,2411,2354,57,5,573,1290,1653.0,6.391,persistent
+2024-03,Debt collection,Written notification about debt,4337,4255,82,8,1538,2706,1733.0,21.955,persistent
+2025-01,Debt collection,Written notification about debt,5421,5302,119,3,1795,1207,3670.0,6.598,spike
+2025-09,Debt collection,Written notification about debt,6723,6659,64,6,1976,2667,5939.0,3.502,spike
+2026-01,Debt collection,Written notification about debt,5738,5587,151,2,1305,1447,4450.0,6.632,spike
+2026-05,Debt collection,Written notification about debt,4275,4162,113,3,852,428,4039.0,7.959,spike
+2024-12,Debt or credit management,Charged upfront or unexpected fees,160,145,15,0,3,89,21.0,139.0,persistent
+2025-01,Debt or credit management,Charged upfront or unexpected fees,167,145,22,1,7,96,21.0,32.825,persistent
+2025-07,Debt or credit management,Charged upfront or unexpected fees,58,56,2,5,5,50,35.0,23.0,persistent
+2025-08,Debt or credit management,Charged upfront or unexpected fees,51,45,6,2,5,34,35.0,16.0,persistent
+2026-05,Debt or credit management,Charged upfront or unexpected fees,92,85,7,3,7,8,51.0,4.609,spike
+2024-08,Debt or credit management,Confusing or misleading advertising or marketing,24,23,1,0,3,14,14.0,10.0,persistent
+2024-12,Debt or credit management,Confusing or misleading advertising or marketing,68,64,4,1,3,42,20.0,16.188,persistent
+2025-01,Debt or credit management,Confusing or misleading advertising or marketing,105,93,12,2,1,66,25.0,10.792,persistent
+2026-05,Debt or credit management,Confusing or misleading advertising or marketing,60,53,7,1,3,5,42.0,18.0,spike
+2024-01,Debt or credit management,Confusing or missing disclosures,26,24,2,2,2,20,20.0,6.0,spike
+2024-10,Debt or credit management,Confusing or missing disclosures,49,48,1,0,13,21,33.0,5.396,spike
+2025-01,Debt or credit management,Confusing or missing disclosures,87,83,4,0,8,52,41.0,3.878,persistent
+2026-01,Debt or credit management,Confusing or missing disclosures,93,87,6,0,26,40,77.0,16.0,persistent
+2026-02,Debt or credit management,Confusing or missing disclosures,101,100,1,0,17,17,77.0,24.0,persistent
+2026-03,Debt or credit management,Confusing or missing disclosures,141,135,6,1,32,57,93.0,4.047,spike
+2024-12,Debt or credit management,Didn't provide services promised,194,170,24,2,7,126,41.0,17.2,persistent
+2025-01,Debt or credit management,Didn't provide services promised,214,192,22,7,2,141,67.0,3.813,persistent
+2025-07,Debt or credit management,Didn't provide services promised,89,75,14,5,9,60,73.0,3.597,spike
+2026-01,Debt or credit management,Didn't provide services promised,134,114,20,10,9,70,85.0,6.61,spike
+2024-05,Debt or credit management,Problem with customer service,35,32,3,0,8,24,24.0,3.71,spike
+2025-01,Debt or credit management,Problem with customer service,60,60,0,4,6,29,28.0,7.195,persistent
+2026-05,Debt or credit management,Problem with customer service,63,59,4,1,3,11,49.0,9.443,spike
+2024-01,Debt or credit management,Unauthorized withdrawals or charges,20,19,1,1,1,15,14.0,6.0,spike
+2024-07,Debt or credit management,Unauthorized withdrawals or charges,26,26,0,2,5,19,18.0,8.0,persistent
+2024-10,Debt or credit management,Unauthorized withdrawals or charges,33,32,1,0,4,22,26.0,4.721,spike
+2024-12,Debt or credit management,Unauthorized withdrawals or charges,32,31,1,1,6,19,19.0,8.768,persistent
+2025-01,Debt or credit management,Unauthorized withdrawals or charges,60,57,3,1,7,42,32.0,18.886,spike
+2025-03,Debt or credit management,Unauthorized withdrawals or charges,44,42,2,1,3,28,32.0,12.0,spike
+2025-07,Debt or credit management,Unauthorized withdrawals or charges,40,38,2,3,4,27,31.0,6.07,spike
+2026-01,Debt or credit management,Unauthorized withdrawals or charges,56,51,5,0,4,23,40.0,5.396,spike
+2026-03,Debt or credit management,Unauthorized withdrawals or charges,53,47,6,3,1,28,42.0,3.71,spike
+2024-12,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,21,21,0,1,1,11,8.0,13.0,persistent
+2025-01,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,125,124,1,2,0,74,8.0,26.305,persistent
+2025-10,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,23,23,0,1,0,12,17.0,4.047,persistent
+2025-12,"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,36,35,1,0,3,22,18.0,6.07,persistent
+2023-12,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,35,34,1,0,2,23,28.0,7.0,spike
+2024-05,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,33,31,2,5,1,24,28.0,5.0,spike
+2025-01,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,1096,1091,5,7,5,604,34.0,143.262,persistent
+2025-02,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,121,120,1,0,2,72,34.0,11.736,persistent
+2025-06,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,71,64,7,3,4,46,66.0,5.0,persistent
+2025-07,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,74,66,8,2,3,51,66.0,8.0,persistent
+2025-08,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,100,97,3,1,16,58,71.0,6.52,spike
+2026-05,"Money transfer, virtual currency, or money service",Confusing or missing disclosures,90,89,1,2,7,14,73.0,3.822,spike
+2024-02,"Money transfer, virtual currency, or money service",Fraud or scam,524,514,10,27,18,334,488.0,36.0,spike
+2024-07,"Money transfer, virtual currency, or money service",Fraud or scam,512,505,7,36,20,294,498.0,4.721,spike
+2024-08,"Money transfer, virtual currency, or money service",Fraud or scam,630,619,11,28,16,350,500.0,43.842,spike
+2024-12,"Money transfer, virtual currency, or money service",Fraud or scam,618,615,3,60,12,410,477.0,6.34,persistent
+2025-01,"Money transfer, virtual currency, or money service",Fraud or scam,2363,2322,41,57,17,1508,545.0,18.033,persistent
+2025-07,"Money transfer, virtual currency, or money service",Fraud or scam,863,814,49,50,20,573,713.0,101.174,spike
+2025-08,"Money transfer, virtual currency, or money service",Fraud or scam,855,836,19,48,23,566,713.0,4.354,spike
+2025-12,"Money transfer, virtual currency, or money service",Fraud or scam,914,903,11,75,22,414,786.0,6.641,spike
+2026-01,"Money transfer, virtual currency, or money service",Fraud or scam,976,962,14,70,36,489,799.0,9.183,spike
+2024-04,"Money transfer, virtual currency, or money service",Lost or stolen money order,20,13,7,0,0,10,11.0,9.0,persistent
+2024-05,"Money transfer, virtual currency, or money service",Lost or stolen money order,24,24,0,3,1,15,11.0,13.0,spike
+2025-01,"Money transfer, virtual currency, or money service",Lost or stolen money order,27,26,1,2,0,16,14.0,4.384,spike
+2026-01,"Money transfer, virtual currency, or money service",Lost or stolen money order,32,32,0,2,0,16,16.0,16.0,persistent
+2026-02,"Money transfer, virtual currency, or money service",Lost or stolen money order,25,23,2,1,1,7,16.0,9.0,persistent
+2026-04,"Money transfer, virtual currency, or money service",Lost or stolen money order,32,31,1,4,0,17,25.0,7.0,spike
+2026-05,"Money transfer, virtual currency, or money service",Lost or stolen money order,30,30,0,0,0,3,25.0,5.0,spike
+2025-01,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",162,159,3,1,7,97,63.0,22.258,persistent
+2025-02,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",122,121,1,3,8,56,68.0,7.285,persistent
+2025-07,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",162,144,18,0,12,98,124.0,5.126,spike
+2025-12,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",224,220,4,4,25,91,161.0,14.164,spike
+2026-01,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",213,213,0,5,38,101,164.0,11.017,spike
+2026-06,"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account",294,294,0,3,17,0,200.0,4.529,spike
+2023-12,"Money transfer, virtual currency, or money service",Money was not available when promised,113,109,4,13,3,72,97.0,16.0,spike
+2024-01,"Money transfer, virtual currency, or money service",Money was not available when promised,117,111,6,18,3,70,97.0,20.0,persistent
+2024-03,"Money transfer, virtual currency, or money service",Money was not available when promised,189,175,14,41,8,123,113.0,12.815,spike
+2024-09,"Money transfer, virtual currency, or money service",Money was not available when promised,146,133,13,25,2,99,120.0,17.537,spike
+2025-01,"Money transfer, virtual currency, or money service",Money was not available when promised,321,319,2,17,7,205,136.0,7.34,spike
+2024-03,"Money transfer, virtual currency, or money service",Other service problem,45,43,2,3,3,27,38.0,7.0,spike
+2024-04,"Money transfer, virtual currency, or money service",Other service problem,48,47,1,5,1,32,38.0,10.0,spike
+2024-12,"Money transfer, virtual currency, or money service",Other service problem,77,75,2,6,2,53,48.0,4.89,persistent
+2025-01,"Money transfer, virtual currency, or money service",Other service problem,1111,1106,5,7,1,913,59.0,64.506,persistent
+2025-06,"Money transfer, virtual currency, or money service",Other service problem,88,77,11,9,1,57,58.0,20.235,persistent
+2025-07,"Money transfer, virtual currency, or money service",Other service problem,90,87,3,7,3,54,58.0,21.584,persistent
+2025-10,"Money transfer, virtual currency, or money service",Other service problem,108,105,3,1,6,66,90.0,18.0,spike
+2026-01,"Money transfer, virtual currency, or money service",Other service problem,118,117,1,1,7,48,74.0,44.0,spike
+2026-02,"Money transfer, virtual currency, or money service",Other service problem,86,83,3,7,9,25,74.0,12.0,spike
+2024-01,"Money transfer, virtual currency, or money service",Other transaction problem,226,216,10,33,8,146,191.0,35.0,spike
+2024-03,"Money transfer, virtual currency, or money service",Other transaction problem,276,256,20,26,7,156,226.0,33.725,spike
+2024-04,"Money transfer, virtual currency, or money service",Other transaction problem,272,257,15,27,12,152,227.0,30.352,spike
+2025-01,"Money transfer, virtual currency, or money service",Other transaction problem,42521,42507,14,61,21,36925,279.0,2191.68,persistent
+2025-02,"Money transfer, virtual currency, or money service",Other transaction problem,3720,3706,14,35,9,3130,308.0,79.357,persistent
+2025-10,"Money transfer, virtual currency, or money service",Other transaction problem,1890,1882,8,42,12,1256,539.0,36.449,spike
+2025-12,"Money transfer, virtual currency, or money service",Other transaction problem,521,506,15,54,22,253,438.0,9.33,spike
+2026-03,"Money transfer, virtual currency, or money service",Other transaction problem,578,571,7,41,20,292,516.0,8.364,spike
+2025-01,"Money transfer, virtual currency, or money service",Problem adding money,34,32,2,1,1,24,10.0,16.188,persistent
+2025-06,"Money transfer, virtual currency, or money service",Problem adding money,21,16,5,1,2,13,9.0,4.047,persistent
+2026-01,"Money transfer, virtual currency, or money service",Problem adding money,21,21,0,1,1,11,11.0,6.745,persistent
+2026-02,"Money transfer, virtual currency, or money service",Problem adding money,29,28,1,1,1,9,11.0,12.141,spike
+2026-06,"Money transfer, virtual currency, or money service",Problem adding money,37,36,1,4,1,1,13.0,24.0,spike
+2024-11,"Money transfer, virtual currency, or money service",Problem with customer service,43,43,0,5,4,29,32.0,7.419,persistent
+2024-02,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,114,109,5,4,26,79,95.0,6.408,spike
+2024-03,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,125,116,9,1,17,86,95.0,10.117,spike
+2024-08,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,135,134,1,9,19,89,103.0,4.317,spike
+2025-01,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,274,267,7,12,18,178,123.0,6.79,persistent
+2025-05,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,214,207,7,6,17,141,193.0,21.0,persistent
+2025-12,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,323,321,2,6,40,171,276.0,10.567,persistent
+2026-01,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,450,447,3,20,70,246,284.0,13.996,spike
+2026-06,"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,377,375,2,7,33,0,323.0,9.106,spike
+2024-03,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,164,163,1,18,6,89,123.0,13.827,spike
+2024-07,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,143,143,0,21,11,87,128.0,10.117,spike
+2024-08,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,163,161,2,15,11,82,129.0,22.933,spike
+2025-01,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,1313,1307,6,19,8,826,155.0,45.945,persistent
+2025-02,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,466,461,5,15,15,294,172.0,5.359,persistent
+2025-07,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,402,352,50,41,13,259,339.0,14.164,spike
+2025-10,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,456,454,2,46,23,279,389.0,22.595,spike
+2025-11,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,405,400,5,34,22,255,389.0,5.396,persistent
+2025-12,"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,581,577,4,72,22,272,405.0,6.595,spike
+2024-03,"Money transfer, virtual currency, or money service",Unexpected or other fees,32,30,2,3,1,19,27.0,5.0,spike
+2024-08,"Money transfer, virtual currency, or money service",Unexpected or other fees,31,30,1,2,1,22,27.0,4.0,spike
+2025-01,"Money transfer, virtual currency, or money service",Unexpected or other fees,157,156,1,4,0,92,25.0,44.516,persistent
+2025-02,"Money transfer, virtual currency, or money service",Unexpected or other fees,54,54,0,5,0,38,29.0,4.216,spike
+2025-10,"Money transfer, virtual currency, or money service",Unexpected or other fees,56,53,3,5,0,37,42.0,9.443,spike
+2025-11,"Money transfer, virtual currency, or money service",Unexpected or other fees,57,55,2,5,2,39,43.0,9.443,spike
+2026-01,"Money transfer, virtual currency, or money service",Unexpected or other fees,62,60,2,6,2,34,56.0,4.047,spike
+2026-05,"Money transfer, virtual currency, or money service",Unexpected or other fees,52,50,2,4,4,4,41.0,7.419,spike
+2025-01,"Money transfer, virtual currency, or money service",Wrong amount charged or received,165,164,1,5,0,110,17.0,99.825,persistent
+2025-08,"Money transfer, virtual currency, or money service",Wrong amount charged or received,55,55,0,2,17,20,17.0,6.408,persistent
+2023-12,Mortgage,Applying for a mortgage or refinancing an existing mortgage,197,190,7,3,9,131,172.0,4.216,spike
+2024-04,Mortgage,Applying for a mortgage or refinancing an existing mortgage,198,196,2,6,7,121,175.0,23.0,spike
+2024-05,Mortgage,Applying for a mortgage or refinancing an existing mortgage,192,189,3,8,7,107,175.0,17.0,spike
+2024-08,Mortgage,Applying for a mortgage or refinancing an existing mortgage,194,189,5,7,5,107,166.0,18.886,spike
+2024-09,Mortgage,Applying for a mortgage or refinancing an existing mortgage,180,171,9,3,7,104,166.0,9.443,spike
+2025-06,Mortgage,Applying for a mortgage or refinancing an existing mortgage,227,224,3,8,4,149,213.0,9.443,spike
+2025-08,Mortgage,Applying for a mortgage or refinancing an existing mortgage,229,218,11,8,5,148,214.0,5.059,spike
+2025-10,Mortgage,Applying for a mortgage or refinancing an existing mortgage,235,226,9,7,4,130,228.0,4.721,spike
+2025-11,Mortgage,Applying for a mortgage or refinancing an existing mortgage,240,226,14,13,4,144,229.0,7.419,spike
+2025-12,Mortgage,Applying for a mortgage or refinancing an existing mortgage,281,268,13,7,8,114,235.0,6.205,spike
+2026-01,Mortgage,Applying for a mortgage or refinancing an existing mortgage,336,309,27,11,8,153,240.0,12.95,spike
+2026-05,Mortgage,Applying for a mortgage or refinancing an existing mortgage,356,335,21,8,7,72,257.0,4.173,spike
+2023-12,Mortgage,Closing on a mortgage,129,127,2,4,6,80,113.0,10.792,spike
+2025-01,Mortgage,Closing on a mortgage,175,170,5,4,5,105,121.0,9.106,spike
+2025-05,Mortgage,Closing on a mortgage,168,165,3,6,4,121,125.0,3.625,spike
+2025-08,Mortgage,Closing on a mortgage,204,198,6,6,6,140,171.0,7.419,spike
+2025-09,Mortgage,Closing on a mortgage,198,187,11,3,9,142,174.0,5.396,spike
+2025-12,Mortgage,Closing on a mortgage,235,219,16,7,3,109,198.0,24.956,spike
+2023-11,Mortgage,Incorrect information on your report,51,51,0,0,3,20,42.0,6.07,spike
+2024-03,Mortgage,Incorrect information on your report,53,53,0,0,1,21,46.0,7.0,spike
+2024-08,Mortgage,Incorrect information on your report,51,51,0,1,3,28,27.0,24.0,persistent
+2024-09,Mortgage,Incorrect information on your report,58,58,0,0,0,23,27.0,31.0,persistent
+2025-10,Mortgage,Incorrect information on your report,71,70,1,0,3,32,66.0,5.0,spike
+2025-12,Mortgage,Incorrect information on your report,96,93,3,1,5,32,66.0,6.745,persistent
+2026-01,Mortgage,Incorrect information on your report,117,116,1,0,9,43,71.0,3.878,persistent
+2026-03,Mortgage,Incorrect information on your report,126,124,2,1,4,35,97.0,19.56,spike
+2024-01,Mortgage,Problem with a company's investigation into an existing problem,28,27,1,0,1,15,17.0,3.71,persistent
+2024-04,Mortgage,Problem with a company's investigation into an existing problem,35,35,0,1,3,23,28.0,7.0,spike
+2024-08,Mortgage,Problem with a company's investigation into an existing problem,28,28,0,0,3,13,22.0,4.047,spike
+2025-04,Mortgage,Problem with a company's investigation into an existing problem,35,35,0,0,2,17,20.0,15.0,persistent
+2025-05,Mortgage,Problem with a company's investigation into an existing problem,39,38,1,0,1,15,20.0,19.0,persistent
+2026-01,Mortgage,Problem with a company's investigation into an existing problem,82,81,1,1,3,36,58.0,5.396,spike
+2024-07,Mortgage,Struggling to pay mortgage,450,446,4,5,17,233,398.0,3.507,spike
+2025-01,Mortgage,Struggling to pay mortgage,496,492,4,4,13,276,389.0,6.014,spike
+2025-12,Mortgage,Struggling to pay mortgage,659,653,6,1,17,242,539.0,6.745,spike
+2026-01,Mortgage,Struggling to pay mortgage,798,792,6,3,21,321,551.0,13.883,spike
+2023-11,Mortgage,Trouble during payment process,1065,1044,21,25,18,616,884.0,3.815,spike
+2024-12,Mortgage,Trouble during payment process,1031,1024,7,24,28,624,965.0,5.565,spike
+2025-01,Mortgage,Trouble during payment process,1229,1221,8,22,36,763,965.0,16.188,spike
+2025-07,Mortgage,Trouble during payment process,1108,1088,20,21,33,691,988.0,26.98,spike
+2025-12,Mortgage,Trouble during payment process,1315,1301,14,24,39,552,1022.0,4.596,spike
+2026-01,Mortgage,Trouble during payment process,1426,1409,17,26,39,692,1087.0,3.518,spike
+2026-03,Mortgage,Trouble during payment process,1496,1479,17,26,41,671,1315.0,4.36,spike
+2026-06,Mortgage,Trouble during payment process,1637,1624,13,8,24,41,1443.0,4.673,spike
+2024-10,"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer,21,19,2,1,2,12,6.0,15.0,spike
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer,30,28,2,0,0,2,19.0,7.419,spike
+2025-06,"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account,24,23,1,2,1,17,12.0,4.047,persistent
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account,53,52,1,0,0,3,20.0,4.452,spike
+2024-01,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,212,205,7,10,5,118,116.0,7.195,persistent
+2024-08,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,173,166,7,11,6,91,153.0,6.745,spike
+2024-09,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,168,162,6,11,6,105,153.0,5.059,spike
+2025-01,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,290,281,9,16,5,184,185.0,7.869,spike
+2025-04,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,241,229,12,11,2,163,207.0,7.644,persistent
+2025-05,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,244,236,8,13,12,164,207.0,8.319,persistent
+2025-06,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,311,302,9,11,7,187,241.0,15.738,persistent
+2025-07,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,379,354,25,15,7,269,244.0,30.352,spike
+2025-12,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,359,333,26,12,6,180,306.0,3.972,spike
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,406,379,27,14,8,186,315.0,6.82,spike
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,378,355,23,6,1,4,341.0,12.478,spike
+2024-08,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,51,50,1,2,1,20,34.0,3.822,spike
+2025-01,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,42,41,1,0,2,22,32.0,10.0,spike
+2025-02,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,40,40,0,1,1,19,32.0,8.0,spike
+2025-07,"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,39,39,0,0,1,21,27.0,12.0,persistent
+2024-01,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,62,57,5,2,4,32,55.0,7.0,spike
+2024-12,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,67,66,1,1,3,40,61.0,4.047,spike
+2025-06,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,99,97,2,0,5,56,72.0,9.106,spike
+2025-12,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,152,145,7,2,4,65,96.0,56.0,persistent
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,153,145,8,2,6,72,96.0,57.0,persistent
+2026-03,"Payday loan, title loan, personal loan, or advance loan",Getting the loan,158,152,6,3,4,67,152.0,4.047,spike
+2025-11,"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,20,19,1,0,1,13,12.0,5.396,spike
+2024-10,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,89,88,1,0,21,24,53.0,4.047,persistent
+2025-03,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,84,82,2,0,6,42,68.0,10.792,spike
+2025-09,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,112,109,3,0,7,55,64.0,10.792,spike
+2025-10,"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,85,84,1,0,3,42,64.0,4.721,persistent
+2025-10,"Payday loan, title loan, personal loan, or advance loan",Issues with repayment,20,16,4,1,0,12,13.0,7.0,spike
+2024-03,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,101,96,5,9,6,53,85.0,3.597,spike
+2024-08,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,98,94,4,7,7,56,82.0,5.396,spike
+2025-01,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,130,128,2,10,5,76,89.0,27.654,spike
+2025-05,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,131,124,7,5,4,80,96.0,7.869,persistent
+2025-06,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,129,124,5,6,6,78,99.0,6.745,persistent
+2025-07,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,151,148,3,7,5,90,129.0,7.419,spike
+2025-12,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,222,206,16,11,4,96,145.0,10.387,persistent
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,276,266,10,14,5,129,145.0,17.672,persistent
+2024-02,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,27,27,0,0,4,12,9.0,12.141,persistent
+2024-04,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,22,22,0,0,0,12,16.0,4.047,spike
+2025-11,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,29,28,1,0,2,17,21.0,8.0,persistent
+2025-12,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,38,37,1,0,4,13,21.0,17.0,persistent
+2026-04,"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,50,47,3,0,0,18,43.0,4.721,spike
+2024-01,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,82,81,1,12,0,46,43.0,13.153,persistent
+2024-03,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,137,133,4,14,3,78,48.0,20.01,spike
+2024-07,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,51,49,2,3,3,30,42.0,6.07,spike
+2024-12,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,57,57,0,6,0,43,46.0,11.0,spike
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,154,146,8,3,1,2,143.0,11.0,spike
+2024-01,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,56,52,4,5,4,33,50.0,4.047,spike
+2024-04,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,67,62,5,4,4,36,56.0,11.0,spike
+2024-10,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,65,65,0,5,3,41,54.0,3.71,persistent
+2024-11,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,81,79,2,5,4,49,57.0,5.396,persistent
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,112,105,7,7,2,54,99.0,13.0,spike
+2026-05,"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,145,135,10,7,5,16,110.0,11.804,spike
+2023-12,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,23,22,1,0,1,9,10.0,13.0,persistent
+2024-11,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,21,19,2,0,2,14,15.0,4.047,persistent
+2025-01,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,33,31,2,0,5,23,17.0,5.396,persistent
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,26,22,4,0,2,15,18.0,8.0,spike
+2026-05,"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,28,26,2,1,0,2,20.0,5.396,spike
+2024-07,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,93,92,1,3,3,63,69.0,8.094,spike
+2025-07,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,148,142,6,1,9,92,99.0,4.721,spike
+2025-09,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,135,130,5,0,3,73,112.0,3.878,spike
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,167,163,4,1,3,3,151.0,10.792,spike
+2026-01,"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle,21,18,3,0,0,12,13.0,5.396,spike
+2026-06,"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle,21,21,0,0,2,2,11.0,10.0,spike
+2025-01,Prepaid card,Advertising,20,20,0,0,0,11,4.0,3.597,spike
+2024-05,Prepaid card,Problem getting a card or closing an account,78,77,1,9,4,48,58.0,13.49,spike
+2024-07,Prepaid card,Problem getting a card or closing an account,66,62,4,6,6,36,58.0,5.396,spike
+2025-12,Prepaid card,Problem getting a card or closing an account,108,102,6,19,8,48,90.0,4.047,spike
+2026-05,Prepaid card,Problem getting a card or closing an account,87,81,6,8,8,15,73.0,4.721,spike
+2026-06,Prepaid card,Problem getting a card or closing an account,108,107,1,4,2,5,73.0,11.804,spike
+2024-12,Prepaid card,Problem with a purchase or transfer,120,104,16,14,4,58,92.0,18.886,persistent
+2025-01,Prepaid card,Problem with a purchase or transfer,175,168,7,24,4,107,119.0,37.771,spike
+2025-09,Prepaid card,Problem with a purchase or transfer,181,181,0,19,6,116,160.0,3.541,spike
+2025-12,Prepaid card,Problem with a purchase or transfer,195,191,4,17,1,92,128.0,9.038,persistent
+2026-01,Prepaid card,Problem with a purchase or transfer,228,221,7,23,8,116,128.0,13.49,persistent
+2023-12,Prepaid card,Trouble using the card,432,415,17,224,14,274,252.0,121.408,persistent
+2024-01,Prepaid card,Trouble using the card,417,404,13,230,9,238,276.0,3.804,spike
+2024-12,Prepaid card,Trouble using the card,447,385,62,135,33,254,198.0,7.302,persistent
+2025-12,Prepaid card,Trouble using the card,246,237,9,35,16,112,201.0,10.117,spike
+2026-01,Prepaid card,Trouble using the card,239,225,14,27,18,109,201.0,8.544,spike
+2024-03,Prepaid card,Unexpected or other fees,62,60,2,7,0,42,46.0,5.396,spike
+2024-08,Prepaid card,Unexpected or other fees,67,65,2,14,3,47,50.0,5.733,spike
+2024-12,Prepaid card,Unexpected or other fees,61,56,5,9,1,40,57.0,4.0,spike
+2025-01,Prepaid card,Unexpected or other fees,76,73,3,3,2,50,57.0,19.0,spike
+2025-12,Prepaid card,Unexpected or other fees,79,73,6,11,4,48,58.0,14.164,spike
+2026-01,Prepaid card,Unexpected or other fees,72,68,4,14,2,47,58.0,9.443,spike
+2026-04,Prepaid card,Unexpected or other fees,72,66,6,8,2,35,59.0,4.384,spike
+2025-03,Student loan,Credit monitoring or identity theft protection services,26,21,5,0,0,14,5.0,3.541,persistent
+2024-09,Student loan,Dealing with your lender or servicer,1046,1009,37,8,10,500,673.0,17.97,persistent
+2024-10,Student loan,Dealing with your lender or servicer,1034,1021,13,8,11,500,687.0,5.201,spike
+2025-03,Student loan,Dealing with your lender or servicer,2038,1223,815,9,11,1116,1099.0,4.987,spike
+2026-03,Student loan,Dealing with your lender or servicer,1077,644,433,1,11,382,890.0,11.466,spike
+2024-03,Student loan,Getting a loan,22,21,1,1,1,15,9.0,13.0,persistent
+2024-04,Student loan,Getting a loan,45,44,1,0,0,23,12.0,7.419,persistent
+2024-05,Student loan,Getting a loan,151,151,0,0,1,90,22.0,8.701,persistent
+2025-01,Student loan,Getting a loan,43,42,1,0,3,22,24.0,4.272,spike
+2025-05,Student loan,Getting a loan,35,35,0,1,1,20,21.0,4.721,persistent
+2025-07,Student loan,Getting a loan,43,42,1,0,4,24,27.0,16.0,spike
+2026-04,Student loan,Getting a loan,42,41,1,0,0,19,30.0,12.0,spike
+2026-05,Student loan,Getting a loan,38,37,1,0,1,4,30.0,8.0,spike
+2025-01,Student loan,Improper use of your report,28,24,4,0,0,17,17.0,11.0,persistent
+2025-02,Student loan,Improper use of your report,181,146,35,0,1,95,17.0,110.616,persistent
+2025-03,Student loan,Improper use of your report,510,364,146,0,0,258,28.0,29.555,persistent
+2026-03,Student loan,Improper use of your report,55,44,11,0,2,13,32.0,3.878,spike
+2024-01,Student loan,Incorrect information on your report,86,81,5,0,2,31,43.0,29.003,persistent
+2024-02,Student loan,Incorrect information on your report,66,63,3,0,5,34,44.0,3.71,persistent
+2024-09,Student loan,Incorrect information on your report,66,64,2,0,4,29,42.0,24.0,spike
+2025-01,Student loan,Incorrect information on your report,91,83,8,0,2,38,58.0,11.129,persistent
+2025-04,Student loan,Incorrect information on your report,241,163,78,0,6,108,105.0,91.731,persistent
+2025-05,Student loan,Incorrect information on your report,218,171,47,1,3,108,106.0,75.543,persistent
+2025-12,Student loan,Incorrect information on your report,266,206,60,0,7,59,183.0,9.33,persistent
+2026-01,Student loan,Incorrect information on your report,364,275,89,0,8,94,183.0,6.104,persistent
+2024-04,Student loan,Problem with a company's investigation into an existing problem,21,20,1,0,0,9,12.0,6.07,spike
+2025-02,Student loan,Problem with a company's investigation into an existing problem,27,21,6,0,1,19,12.0,5.059,persistent
+2025-12,Student loan,Problem with a company's investigation into an existing problem,83,68,15,0,5,12,64.0,6.408,persistent
+2026-01,Student loan,Problem with a company's investigation into an existing problem,109,93,16,0,0,36,66.0,14.502,spike
+2026-05,Student loan,Problem with a company's investigation into an existing problem,97,89,8,0,3,5,77.0,6.745,spike
+2024-05,Student loan,Struggling to repay your loan,237,231,6,1,5,141,199.0,25.631,spike
+2024-09,Student loan,Struggling to repay your loan,359,355,4,0,8,186,168.0,4.955,persistent
+2025-01,Student loan,Struggling to repay your loan,785,681,104,0,5,408,231.0,7.785,persistent
+2025-12,Student loan,Struggling to repay your loan,330,204,126,0,4,128,217.0,4.483,persistent
+2026-01,Student loan,Struggling to repay your loan,337,199,138,0,5,138,217.0,4.047,persistent
+2026-03,Student loan,Struggling to repay your loan,414,254,160,1,1,177,330.0,8.094,spike
+2024-05,Vehicle loan or lease,Getting a loan or lease,183,180,3,2,15,107,129.0,3.642,spike
+2024-09,Vehicle loan or lease,Getting a loan or lease,172,169,3,2,8,88,151.0,3.541,spike
+2024-10,Vehicle loan or lease,Getting a loan or lease,203,201,2,2,17,80,169.0,7.644,spike
+2025-01,Vehicle loan or lease,Getting a loan or lease,315,311,4,2,18,166,167.0,99.825,spike
+2025-02,Vehicle loan or lease,Getting a loan or lease,222,217,5,4,23,127,167.0,37.097,spike
+2026-01,Vehicle loan or lease,Getting a loan or lease,268,260,8,2,15,129,224.0,14.839,spike
+2026-05,Vehicle loan or lease,Getting a loan or lease,284,279,5,1,6,38,232.0,4.384,spike
+2024-07,Vehicle loan or lease,Improper use of your report,40,39,1,0,2,6,22.0,12.141,spike
+2024-11,Vehicle loan or lease,Improper use of your report,30,29,1,0,2,15,20.0,6.745,persistent
+2024-12,Vehicle loan or lease,Improper use of your report,27,27,0,0,1,17,20.0,4.721,persistent
+2025-01,Vehicle loan or lease,Improper use of your report,43,42,1,1,4,14,27.0,3.597,spike
+2024-01,Vehicle loan or lease,Incorrect information on your report,78,78,0,2,11,30,64.0,4.721,persistent
+2024-10,Vehicle loan or lease,Incorrect information on your report,103,100,3,2,8,45,87.0,10.792,spike
+2025-01,Vehicle loan or lease,Incorrect information on your report,163,163,0,3,12,85,100.0,14.164,spike
+2025-12,Vehicle loan or lease,Incorrect information on your report,230,225,5,3,18,54,138.0,5.641,persistent
+2024-01,Vehicle loan or lease,Managing the loan or lease,330,326,4,13,21,175,316.0,9.443,spike
+2024-03,Vehicle loan or lease,Managing the loan or lease,413,411,2,25,11,235,318.0,32.038,spike
+2024-07,Vehicle loan or lease,Managing the loan or lease,322,320,2,10,12,197,290.0,10.792,spike
+2024-08,Vehicle loan or lease,Managing the loan or lease,331,329,2,16,13,205,290.0,13.827,spike
+2024-12,Vehicle loan or lease,Managing the loan or lease,370,361,9,18,19,226,311.0,4.974,persistent
+2025-01,Vehicle loan or lease,Managing the loan or lease,508,503,5,26,33,290,319.0,15.935,spike
+2025-05,Vehicle loan or lease,Managing the loan or lease,445,442,3,16,29,294,375.0,3.935,persistent
+2025-07,Vehicle loan or lease,Managing the loan or lease,590,575,15,12,33,383,445.0,3.912,spike
+2025-12,Vehicle loan or lease,Managing the loan or lease,716,708,8,23,26,321,488.0,13.98,persistent
+2024-08,Vehicle loan or lease,Problem with a company's investigation into an existing problem,35,35,0,1,1,12,18.0,3.822,spike
+2025-01,Vehicle loan or lease,Problem with a company's investigation into an existing problem,52,51,1,0,7,35,26.0,26.0,persistent
+2025-03,Vehicle loan or lease,Problem with a company's investigation into an existing problem,41,40,1,1,4,20,29.0,8.094,persistent
+2026-01,Vehicle loan or lease,Problem with a company's investigation into an existing problem,96,95,1,2,8,34,62.0,22.933,spike
+2024-01,Vehicle loan or lease,Problems at the end of the loan or lease,153,152,1,4,18,88,116.0,8.319,persistent
+2024-02,Vehicle loan or lease,Problems at the end of the loan or lease,146,143,3,7,16,84,116.0,6.745,persistent
+2024-03,Vehicle loan or lease,Problems at the end of the loan or lease,187,186,1,8,14,99,146.0,3.951,spike
+2024-08,Vehicle loan or lease,Problems at the end of the loan or lease,178,176,2,10,15,105,138.0,6.745,spike
+2024-10,Vehicle loan or lease,Problems at the end of the loan or lease,171,169,2,17,14,117,141.0,6.745,spike
+2025-01,Vehicle loan or lease,Problems at the end of the loan or lease,223,220,3,10,19,144,173.0,16.862,spike
+2025-05,Vehicle loan or lease,Problems at the end of the loan or lease,208,206,2,5,14,132,154.0,7.285,persistent
+2025-12,Vehicle loan or lease,Problems at the end of the loan or lease,302,298,4,11,30,132,245.0,38.446,spike
+2026-01,Vehicle loan or lease,Problems at the end of the loan or lease,319,317,2,18,19,174,246.0,5.471,spike
+2026-04,Vehicle loan or lease,Problems at the end of the loan or lease,347,339,8,13,31,180,315.0,5.396,spike
+2024-03,Vehicle loan or lease,Repossession,330,329,1,5,20,196,230.0,33.725,spike
+2025-01,Vehicle loan or lease,Repossession,509,504,5,9,31,298,293.0,9.713,spike
+2025-07,Vehicle loan or lease,Repossession,548,538,10,13,38,319,500.0,8.094,spike
+2025-10,Vehicle loan or lease,Repossession,526,508,18,10,32,279,489.0,4.991,spike
+2025-11,Vehicle loan or lease,Repossession,585,576,9,5,45,324,489.0,12.95,spike
+2024-03,Vehicle loan or lease,Struggling to pay your loan,70,70,0,4,1,40,34.0,12.141,persistent
+2024-11,Vehicle loan or lease,Struggling to pay your loan,58,58,0,1,2,33,45.0,4.384,persistent
+2025-01,Vehicle loan or lease,Struggling to pay your loan,91,91,0,0,7,63,55.0,8.094,spike
+2025-09,Vehicle loan or lease,Struggling to pay your loan,90,88,2,2,3,57,76.0,4.721,spike
+2025-12,Vehicle loan or lease,Struggling to pay your loan,112,112,0,3,8,41,90.0,4.946,spike

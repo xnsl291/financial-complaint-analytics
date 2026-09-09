@@ -1,4 +1,4 @@
-# Power BI 모델·대시보드 가이드
+# Power BI 모델과 대시보드 가이드
 
 ## 모델
 
@@ -22,8 +22,8 @@ What-if 매개변수는 Volume 0.30, Growth 0.25, Untimely 0.20, Relief 0.15, Pe
 ## 4개 페이지
 
 1. 경영 KPI: 민원 수, 적기응답률, 이상치 수, 완전월 cutoff
-2. 추세: 월별 민원·MoM·YoY 및 taxonomy 경계
+2. 추세: 월별 민원, MoM, YoY 및 taxonomy 경계
 3. 운영 검토: product/issue 이상치와 priority 구성요소
-4. 역사적 텍스트·품질: 정책 변경 전 TF-IDF 키워드, narrative 존재율, 중복·제외 품질
+4. 역사적 텍스트와 품질: 정책 변경 전 TF-IDF 키워드, narrative 존재율, 중복 및 제외 품질
 
-실데이터 정적 미리보기는 같은 네 자리를 경영 KPI, 월별 추세, 상품 구성, 상품·이슈 검토 큐로 바꿔 구성했다. `reports/real_power_bi_preview_page_1.png`부터 `4.png`까지에서 확인할 수 있다.
+실데이터 정적 미리보기는 같은 네 자리를 경영 KPI, 월별 추세, 상품 구성, 상품 및 이슈 검토 큐로 바꿔 구성했다. `reports/real_power_bi_preview_page_1.png`부터 `4.png`까지에서 확인할 수 있다.

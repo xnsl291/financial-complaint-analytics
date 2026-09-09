@@ -18,13 +18,22 @@ Python 3.12에서 프로젝트 로컬 환경을 만든 뒤 다음처럼 실행�
 .\.venv\Scripts\python.exe -m src.pipeline all --row-cap 200 --snapshot-date 2026-09-08
 ```
 
+현재 실행 환경에서는 CFPB 공식 API와 bulk 파일 서버가 HTTP 403을 반환합니다. 이 경우 공식 bulk export를 Parquet로 변환한 공개 미러를 고정 revision으로 읽어 집계 마트만 만들 수 있습니다. 민원 서술문과 원본 행은 저장하지 않습니다.
+
+```powershell
+.\.venv\Scripts\python.exe -m src.real_aggregate --start-date 2023-09-01 --end-date 2026-06-30
+```
+
+고정 미러 실행 결과는 12,344,954건과 34개 완전 월입니다. 계획의 36개월 기준에 아직 2개월이 부족하므로, README와 보고서에서 36개월로 표현하지 않습니다.
+
 명령은 `ingest`, `validate`, `transform`, `analyze`, `export-bi`, `verify`, `all`을 제공하며, 현재 독립 단계 검토에는 `--demo`를 사용합니다. `all --demo`는 전체 계층을 다시 생성합니다.
 
 ## 산출물
 
 - `data/raw`: 보존 원본(무시됨), `data/staging`: 표준화 결과, `data/mart/complaints.duckdb`: DuckDB 스타/분석 마트
-- `bi`: Power BI용 CSV, 스키마, 테마
-- `reports/power_bi_preview_page_1.png`~`4.png`, `reports/power_bi_preview.pdf`: 실제 파이프라인 출력 기반 4페이지 정적 미리보기
+- `bi`: Power BI용 CSV, 스키마, 테마. 공개본에는 KPI·이상징후·응답유형 요약만 포함합니다. 월별 상품·이슈, 채널·지역, 회사별 응답 마트는 실행할 때 생성되며 Git에서는 제외합니다.
+- `reports/power_bi_preview_page_1.png`~`4.png`: 합성 데모 기반 미리보기
+- `reports/real_power_bi_preview_page_1.png`~`4.png`: 실데이터 집계 기반 미리보기
 - `docs`: 지표 정의, BI 모델, 한계, 면접 문답과 지원용 요약
 
 ## 분석 원칙
@@ -33,6 +42,6 @@ Complaint ID는 첫 관측값만 유지하고, 날짜 오류·빈 범주를 표�
 
 자세한 정의와 Power BI 구성은 [docs/data_dictionary.md](docs/data_dictionary.md), [docs/power-bi-guide.md](docs/power-bi-guide.md)를 보세요.
 
-분석 방법, 데모 검증 결과와 실데이터 적용 한계는 [docs/analysis_report_ko.md](docs/analysis_report_ko.md)에 정리했습니다.
+분석 방법, 실데이터 결과와 수집 한계는 [docs/analysis_report_ko.md](docs/analysis_report_ko.md)에 정리했습니다.
 
 데이터 출처·공개 데이터 해석 원칙은 [`DATA_SOURCES.md`](DATA_SOURCES.md), 분석 코드 라이선스는 [`LICENSE`](LICENSE)를 확인하세요.
